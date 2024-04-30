@@ -1,0 +1,917 @@
+/* Responsive for Laptop */
+@media (min-width: 1500px) and (max-width: 1750px) {
+  body,
+  html {
+    font-size: 15px;
+  }
+  #page1-bg-image {
+    min-width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+  }
+  .page7-bg-image {
+    background-size: 100% 100%;
+  }
+  .page7-div1 {
+    padding-left: 2.2vw;
+  }
+  .page2-bg-image {
+    background-size: 100% 100%;
+  }
+  .last-text {
+    margin: 0;
+  }
+  .card6 {
+    width: 415px;
+    flex-wrap: nowrap;
+  }
+  #hero-text2 p {
+    width: 45%;
+  }
+  .last-text h1 {
+    margin: 0;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+  body,
+  html {
+    font-size: 14px;
+  }
+
+  /* ALL Images 100%*/
+  .page1-bg-image {
+    min-width: 100%;
+    height: 90%;
+    background-size: 100% 100%;
+  }
+  .page7-bg-image {
+    background-size: 100% 100%;
+  }
+  .page7-div1 {
+    padding-left: 2.2vw;
+  }
+  .page2-bg-image {
+    background-size: 100% 100%;
+  }
+
+  /*Page1*/
+  #nav-bar #nav-bar-logo {
+    width: 17%;
+  }
+  #herosection {
+    width: 87%;
+    padding-left: 0;
+    margin-top: 5vw;
+  }
+  #hero-text2 p {
+    width: 55%;
+  }
+
+  /*page2*/
+  .card {
+    width: 280px;
+  }
+
+  #page2-cards .card img {
+    width: 160px;
+    height: 160px;
+  }
+  /*Page3*/
+  .cards3 {
+    width: 270px;
+  }
+
+  .page3-cards {
+    width: 92%;
+  }
+
+  /*page4*/
+  .cards4 img {
+    width: 95%;
+  }
+
+  .page5-bg-image {
+    width: 90%;
+    background-size: 100% 100%;
+  }
+
+  /*Page 6 */
+  #page6-cards {
+    min-width: 90%;
+    flex-wrap: wrap;
+  }
+  .page6-card-box1 img {
+    width: 55px;
+    height: 45px;
+  }
+
+  /*Footer*/
+  #page7 {
+    height: 50vh;
+  }
+  #page7-content {
+    width: 91%;
+  }
+  #page7-div1-image img {
+    width: 150px;
+    height: 100px;
+  }
+  #page7-div1-icon img {
+    width: 20px;
+    height: 20px;
+  }
+  .last-text {
+    margin-top: 0vw;
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1200px) {
+  body,
+  html {
+    font-size: 13px;
+  }
+
+  /* ALL Images 100%*/
+  .page1-bg-image {
+    min-width: 90%;
+    height: 80%;
+    background-size: 100% 100%;
+  }
+  .page7-bg-image {
+    background-size: 100% 100%;
+  }
+  .page7-div1 {
+    padding-left: 2.2vw;
+  }
+  .page2-bg-image {
+    background-size: 100% 100%;
+  }
+
+  .page1 {
+    height: 94vh;
+  }
+  #hero-text2 p {
+    width: 50%;
+  }
+
+  /*Page1*/
+  #nav-bar #nav-bar-logo {
+    width: 17%;
+  }
+  #herosection {
+    width: 92%;
+    padding-left: 0;
+    margin-top: 6vw;
+  }
+
+  #menu-button button {
+    width: 65%;
+  }
+  #hero-textsearch {
+    width: 35%;
+  }
+
+  /*page2*/
+  #page2 {
+    height: 70vh;
+  }
+  .card {
+    width: 240px;
+  }
+
+  #page2-cards .card img {
+    width: 130px;
+    height: 130px;
+  }
+  /*Page3*/
+  .cards3 {
+    width: 220px;
+  }
+  .page3-cards {
+    width: 92%;
+  }
+  #card3-first-img {
+    width: 150px;
+    height: 150px;
+    margin: auto;
+  }
+  .cards3 h2 {
+    font-size: 1.3rem;
+  }
+  #card3-first-img img {
+    width: 150px;
+    height: 140px;
+  }
+  #page3-inner-card-elements {
+    gap: 10px;
+  }
+
+  /*page4*/
+  .cards4 img {
+    width: 100%;
+  }
+
+  #page5 {
+    height: 70vh;
+  }
+
+  .page5-bg-image {
+    width: 100%;
+    height: 60vh;
+    background-size: 100% 100%;
+  }
+  #page5-text {
+    width: 48%;
+    gap: 20px;
+  }
+
+  /*Page 6 */
+  #page6-cards {
+    min-width: 90%;
+    flex-wrap: wrap;
+  }
+  .page6-card-box1 img {
+    width: 50px;
+    height: 40px;
+  }
+  .page6-card-box2 img {
+    width: 75px;
+    height: 73px;
+  }
+  .card6 {
+    width: 380px;
+  }
+
+  /*Footer*/
+  #page7 {
+    height: 45vh;
+  }
+  #page7-content {
+    width: 91%;
+    gap: 10px;
+  }
+  #page7-div1-image img {
+    width: 119px;
+    height: 78px;
+  }
+  #page7-div1-icon img {
+    width: 20px;
+    height: 20px;
+  }
+  #page7-div1-image p {
+    margin-top: 3.7vw;
+  }
+  .last-text h1 {
+    margin-top: 0vw;
+  }
+}
+@media (min-width: 680px) and (max-width: 900px) {
+  body,
+  html {
+    font-size: 12px;
+  }
+  .page1-bg-image {
+    min-width: 90%;
+    height: 70%;
+    background-size: 100% 100%;
+  }
+
+  .page7-div1 {
+    padding-left: 2.2vw;
+  }
+  .page2-bg-image {
+    background-size: 100% 100%;
+  }
+  #page1 {
+    height: 95vh;
+  }
+
+  /*Page1*/
+  #nav-bar #nav-bar-logo {
+    margin-top: 2vw;
+    width: 16%;
+    height: 65%;
+  }
+  .line {
+    display: none;
+  }
+  #herosection {
+    width: 91%;
+    padding-left: 0;
+    margin-top: 6vw;
+  }
+  #hero-text1 h1 {
+    width: 50%;
+    font-size: 3.7rem;
+  }
+
+  #hero-text2 h1 {
+    width: 50%;
+    font-size: 3.7rem;
+  }
+  #hero-text2 p {
+    width: 70%;
+  }
+  #hero-text2 p {
+    width: 60%;
+    line-height: 1.8;
+  }
+  #hero-textsearch {
+    width: 46%;
+    padding: 0.5vw;
+  }
+
+  #menu-button button {
+    width: 85%;
+  }
+
+  /*page2*/
+
+  #page2 {
+    height: auto;
+  }
+  .card {
+    width: 210px;
+    height: auto;
+  }
+  #page2-cards {
+    height: auto;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  #page2-cards .card img {
+    width: 130px;
+    height: 130px;
+  }
+  #page3 {
+    margin-top: 3vw;
+  }
+  /*Page3*/
+  .cards3 {
+    width: 200px;
+    padding: 2vw;
+  }
+  .page3-cards {
+    width: 94%;
+  }
+  #card3-first-img {
+    width: 120px;
+    height: 110px;
+    margin: auto;
+  }
+  #card3-first-img img {
+    width: 120px;
+    height: 110px;
+  }
+  #card3-sec-img img {
+    width: 25px;
+    height: 25px;
+  }
+  #page3-inner-card-elements {
+    gap: 10px;
+  }
+  #page3-button button {
+    width: 15%;
+    padding: 1vw;
+  }
+  .cards3 h2 {
+    width: 100%;
+  }
+
+  /*page4*/
+  .cards4 img {
+    width: 110%;
+  }
+
+  #page5 {
+    height: 60vh;
+  }
+
+  .page5-bg-image {
+    width: 100%;
+    height: 45vh;
+    background-size: cover;
+  }
+  #page5-text {
+    width: 48%;
+    gap: 18px;
+  }
+  #page5-text-flex2 button {
+    width: 40%;
+    padding: 0.8vw;
+  }
+  #page5-text #page5-text-flex1 h2 {
+    font-size: 2.3rem;
+  }
+
+  /*Page 6 */
+  #page6-cards {
+    min-width: 90%;
+    flex-wrap: wrap;
+  }
+  .page6-card-box1 img {
+    width: 40px;
+    height: 30px;
+  }
+  .page6-card-box2 img {
+    width: 60px;
+    height: 57px;
+    margin-top: 1vw;
+  }
+  .card6 {
+    width: 300px;
+    padding: 2vw;
+  }
+
+  /*Footer*/
+  #page7 {
+    height: auto;
+    background-color: #3d58a6;
+  }
+  .page7-bg-image {
+    height: 100%;
+    background-size: 0% 0%;
+  }
+  #page7-content {
+    width: 98%;
+    gap: 10px;
+    height: auto;
+  }
+
+  #page7-div1-image img {
+    width: 90px;
+    height: 58px;
+    background-color: #fafafa;
+    margin-top: 0vw;
+    margin-left: 4vw;
+  }
+  #page7-div1-icon img {
+    width: 13px;
+    height: 13px;
+    margin-top: 0vw;
+    margin-left: 0vw;
+    background-color: transparent;
+  }
+  .last-text {
+    margin: 3vw auto;
+  }
+  #p7-contact {
+    gap: 15px;
+  }
+  #phone-img img {
+    width: 13px;
+    height: 13px;
+  }
+  .p7-foam button {
+    width: 50%;
+    padding: 1vw;
+  }
+  .last-text h1 {
+    margin: 0;
+  }
+}
+@media (min-width: 318px) and (max-width: 680px) {
+  body,
+  html {
+    font-size: 12px;
+    overflow-x: hidden;
+  }
+  #page1 {
+    position: relative;
+    overflow-x: hidden;
+  }
+  #nav-bar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 1vw;
+  }
+  #menu-button button {
+    display: none;
+  }
+  /*responsive nav bar*/
+  #page1 {
+    height: 95vh;
+  }
+  #nav-bar-menu {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    transform: translateX(100%);
+    transition: all 0.3s linear;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+  }
+  .active #nav-bar-menu {
+    background-color: #f5822ad2;
+    transform: translateX(0);
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+  #nav-bar-menu a {
+    color: #fff;
+    font-size: 2rem;
+  }
+  .active .mobile-nav .mobile-nav-icon[name="close-outline"] {
+    display: block;
+  }
+  .active .mobile-nav .mobile-nav-icon[name="menu-outline"] {
+    display: none;
+  }
+  .mobile-nav {
+    display: block;
+    z-index: 999;
+    margin-right: 4.5vw;
+  }
+
+  .mobile-nav-icon {
+    width: 3rem;
+    height: 3rem;
+  }
+
+  .page1-bg-image {
+    min-width: 100%;
+    height: 40vh;
+    background-size: cover;
+  }
+  #nav-bar #nav-bar-logo img {
+    width: 105px;
+    height: 70px;
+    margin: 5vw auto;
+    position: relative;
+    z-index: 1000;
+  }
+
+  #herosection {
+    width: 100%;
+    height: auto;
+    padding-left: 4vw;
+    margin: 8vw auto;
+    line-height: 1.3;
+  }
+  .line {
+    display: none;
+  }
+  #hero-text1 h1 {
+    margin-top: 8vw;
+  }
+  #hero-text2 h1 {
+    width: 85%;
+  }
+  #hero-text2 p {
+    width: 80%;
+    line-height: 1.3;
+  }
+  #hero-textsearch {
+    margin-top: 5vw;
+    width: 70%;
+    padding: 1vw;
+  }
+  #hero-textsearch .gps-icon {
+    width: 35px;
+    height: 35px;
+    margin: auto 0.6vw;
+  }
+
+  /*page2*/
+  #page2 {
+    height: auto;
+  }
+  .page2-bg-image {
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+  }
+  #page2-content {
+    width: 100%;
+  }
+  #page2-content h1 {
+    font-size: 2.9rem;
+  }
+
+  #page2-cards {
+    margin-top: 3vh;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    width: 98%;
+  }
+  .card {
+    width: 140px;
+  }
+  #page2-cards .card img {
+    width: 130px;
+    height: 120px;
+  }
+  #page2-content h2:nth-child(2) {
+    font-size: 1.2rem;
+  }
+  .card p {
+    width: 80%;
+    font-size: 0.7rem;
+  }
+
+  /*Page3 */
+  .page3-bg-image {
+    border-bottom-left-radius: 0%;
+  }
+  #page3-text {
+    margin-top: 5vh;
+  }
+  #page3-text h1 {
+    font-size: 3rem;
+  }
+  #page3-text p {
+    width: 95%;
+    margin: auto;
+  }
+  #page3-inner-card-elements {
+    gap: 9px;
+  }
+  .cards3 {
+    width: 150px;
+    height: 200px;
+  }
+  #card3-first-img {
+    width: 100px;
+    height: 100px;
+  }
+  .cards3 h2 {
+    width: 100%;
+    font-size: 1.1rem;
+  }
+  #card3-first-img img {
+    width: 100px;
+    height: 100px;
+  }
+  #card3-sec-img {
+    width: 90%;
+    margin: auto;
+  }
+  #card3-sec-img img {
+    margin-top: 0;
+    width: 20px;
+    height: 20px;
+  }
+  #page3-button button {
+    width: 27%;
+    padding: 1.7vw;
+  }
+
+  #page4 {
+    width: 100%;
+  }
+  #page4-content {
+    width: 95%;
+  }
+  #page4-cards {
+    flex-wrap: wrap;
+  }
+  .cards4 {
+    width: 150px;
+  }
+  .cards4 img {
+    width: 70%;
+  }
+  #page5 {
+    width: 100%;
+    height: 45vh;
+  }
+  .page5-bg-image {
+    width: 100%;
+    height: 40vh;
+    background-size: cover;
+  }
+  #page5-text {
+    width: 53%;
+    gap: 20px;
+  }
+  #page5-text-flex1 {
+    gap: 10px;
+  }
+  #page5-text #page5-text-flex1 h1 {
+    margin-top: 3vh;
+    font-size: 1.5rem;
+  }
+  #page5-text #page5-text-flex1 h2 {
+    font-size: 1.2rem;
+  }
+  #page5-text-flex2 p {
+    font-size: 0.7rem;
+    padding-left: 10px;
+  }
+  #page5-text-flex2 button {
+    width: 45%;
+    font-size: 0.7rem;
+    padding: 1vw;
+  }
+
+  /*page7*/
+  #page6 {
+    width: 100%;
+    height: auto;
+  }
+  #page6-content h1 {
+    font-size: 2.9rem;
+  }
+  #page6-cards {
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  #page6-cards {
+    width: 94%;
+  }
+  .card6 {
+    width: 300px;
+    padding: 3vw;
+  }
+  #page6-card-inner {
+    height: 40%;
+  }
+  .page6-card-box1 {
+    margin-top: 5vw;
+  }
+  .page6-card-box1 img {
+    width: 50px;
+    height: 40px;
+    left: 80%;
+  }
+
+  .page6-card-box2 img {
+    width: 50px;
+    height: 50px;
+  }
+  .page6-card-text h2 {
+    font-size: 1rem;
+  }
+
+  .page6-card-text p {
+    font-size: 1rem;
+  }
+
+  /*Page7*/
+  #page7 {
+    height: auto;
+  }
+  .page7-bg-image {
+    background-size: cover;
+  }
+  #page7-content {
+    height: auto;
+    width: 95%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .page7-div1 {
+    width: 90%;
+    margin: auto;
+  }
+  #page7-div1-image img {
+    background-color: #fff;
+    width: 150px;
+    height: 80px;
+  }
+  #page7-div1-icon img {
+    background-color: transparent;
+    width: 15px;
+    height: 15px;
+  }
+
+  .page7-div2 {
+    margin-top: 3vw;
+    width: 35%;
+    margin-top: 10vw;
+    gap: 10px;
+    padding: 0;
+  }
+  .page7-div2 h1 {
+    text-align: center;
+  }
+  .page7-div2 h2 {
+    padding-left: 4vw;
+  }
+
+  .page7-div3 {
+    width: 65%;
+    margin-top: 10vw;
+  }
+  #p7-contact {
+    gap: 15px;
+  }
+  #phone-img img {
+    width: 15px;
+    height: 15px;
+  }
+
+  .page7-div4 {
+    height: 18vh;
+    margin: 6vw auto;
+    width: 80%;
+  }
+  .p7-foam button {
+    margin: 1vh;
+    width: 45%;
+    padding: 2vw;
+  }
+
+  .last-text {
+    width: 90%;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    font-size: 0.7rem;
+    margin-bottom: 3vw;
+  }
+}
+@media (min-width: 450px) and (max-width: 680px) {
+  html,
+  body {
+    font-size: 12px;
+    overflow-x: hidden;
+  }
+  #page1 {
+    height: 90vh;
+  }
+  #page2 {
+    height: auto;
+  }
+  .page2-bg-image {
+    height: auto;
+  }
+  #hero-textsearch {
+    width: 55%;
+    padding: 0.7vw;
+  }
+  #page2-cards {
+    height: auto;
+  }
+  #hero-text2 h1 {
+    width: 65%;
+  }
+  #hero-text1 h1 {
+    margin-top: 4vw;
+    width: 81%;
+  }
+  #page5-text {
+    width: 50%;
+    gap: 30px;
+  }
+  #page5-text #page5-text-flex1 h1 {
+    font-size: 1.7rem;
+  }
+  #page5-text #page5-text-flex1 h2 {
+    font-size: 1.5rem;
+  }
+  #page5-text-flex2 p {
+    font-size: 0.9rem;
+    padding-left: 0px;
+  }
+  #page3-inner-card-elements {
+    gap: 11px;
+  }
+
+  .p7-foam button {
+    width: 25%;
+    padding: 1.4vw;
+  }
+  .cards3 {
+    width: 170px;
+  }
+}
+@media (min-width: 250px) and (max-width: 320px) {
+  html,
+  body {
+    font-size: 10px;
+    overflow: hidden;
+  }
+  #page1 {
+    height: 100vh;
+  }
+  #page2 {
+    height: 100vh;
+  }
+  #hero-textsearch {
+    width: 80%;
+  }
+  .cards4 img {
+    width: 70%;
+  }
+  .cards4 {
+    width: 100px;
+  }
+  #page3-button button {
+    width: 45%;
+  }
+}
